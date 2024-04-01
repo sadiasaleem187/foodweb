@@ -14,7 +14,7 @@ const Hero = () => {
                 </h2>
                 <p className='text-gray-700 text-[14px] sm:text-[16px]'>Delicious meals are tasty, appetizing, scrumptious, yummy, luscious, delectable, mouth-watering, fit for a king, delightful, lovely, wonderful,
                 <br/>
-                 pleasant, enjoyable, appealing, enchanting, charming and hihgly pleasant to the taste. You wouldn't call delicious that what is tasteless or unpleasant.<br />
+                 pleasant, enjoyable, appealing, enchanting, charming and hihgly pleasant to the taste. You would not call delicious that what is tasteless or unpleasant.<br />
                     What are waiting for?</p>
                     <button className='bg-red-600 text-white px-6 py-2 rounded-3xl text-[14px] sm:text=[16px]'>View More</button>
             </div>
